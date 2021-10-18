@@ -10,7 +10,7 @@ export default class UpdateScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Updates Screen!</Text>
+                <Text>Pantalla de Actualizaciones!</Text>
             </View>
         )
     }
