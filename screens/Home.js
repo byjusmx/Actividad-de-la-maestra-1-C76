@@ -10,7 +10,7 @@ export default class HomeScreen extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Home Screen!</Text>
+                <Text>¡Pantalla de inicio!</Text>
             </View>
         )
     }
