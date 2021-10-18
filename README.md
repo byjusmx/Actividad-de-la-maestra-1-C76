@@ -1,2 +1,2 @@
-# ISS-Tracker-1-Teacher-Ref
-Reference code for C76
+# RASTREADOR-EEI-1-REF-MAESTRA
+Código de referencia C76
